@@ -23,9 +23,9 @@ Flying star is a  JavaFX OOP game where 10-sided colored stars spawn from the ce
 - OOP principles
 
 ## How to Run
-- Clone the repository
-- Open in IntelliJ (with JDK 21 + JavaFX support)
-- Run the main JavaFX application class
+1- Clone the repository
+2- Open in IntelliJ (with JDK 21 + JavaFX support)
+3- Run the main JavaFX application class
 
 ## Team
 - Mohammed Alfaraj
